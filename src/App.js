@@ -1,5 +1,6 @@
 import "./App.scss";
 import Header from "./component/Header/Header";
+import Main from "./component/Main/Main";
 import Navbar from "./component/Navbar/Navbar";
 
 const App = () => {
@@ -7,6 +8,7 @@ const App = () => {
     <div className="App">
       <Navbar />
       <Header />
+      <Main />
     </div>
   );
 };
