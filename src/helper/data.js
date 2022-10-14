@@ -1,82 +1,79 @@
 export const data = [
   {
     id: 1,
-    title: "New York",
-    desc: "Home to the Statue of Liberty, Empire State Building, Central Park, Times Square, New York is the most populous city in the USA. We have a lot to tell about the city where city lights illuminate the sky.",
+    title: "Aydınpınar Şelalesi",
+    desc: "Merkez ilçeye bağlı olan Aydınpınar Köyü’ndeki şelale aynı zamanda yürüyüş parkuruna sahiptir. Orta zorluğa sahip olan parkurda yürürken şelalenin dışında birçok doğal güzelliğe de şahit olacaksınız. Meşe, gürgen, kestane gibi çeşitli ağaçların bulunduğu ormanın içinde trekking yapabilir ve çadır kurup kamp yapabilirsiniz.",
     image:
-      "https://cdn.pixabay.com/photo/2017/06/07/15/47/new-york-city-2380683_960_720.jpg",
+      "https://i.neredekal.com/i/neredekal/75/690x404/60664e38ee14ce176dce1149",
   },
   {
     id: 2,
-    title: "Philippines",
-    desc: "The island country, the Philippines, is one of the most beautiful countries where blue and green are together. Forget the potion of youth, traveling to the Philippines will rejuvenate you for at least 5 years.",
+    title: "Kardüz Yaylası",
+    desc: "Düzce’nin Gölkaya ilçesinde yer alan Kardüz Yaylası, deniz seviyesinden 1830 metre yükseklikte ve 180 hektar alana sahip. Kardüz Yaylası, Düzce’nin en yüksek noktalarından birinde yer almasından dolayı kış turizmi için vazgeçilmez bir yer olarak görülüyor. Nitekim Bolu’da yer alan Kartalkaya Kayak Merkezi’yle aynı özellikleri taşıyor Kardüz Yaylası ve kış sporları için oldukça elverişli bir yer.",
     image:
-      "https://bigseventravel.com/wp-content/uploads/2019/11/john-hernandez-IL-fBBnF-GU-unsplash-1920x1440.jpg",
+      "https://i.neredekal.com/i/neredekal/75/453x200/60638b28144abbc112b70197",
   },
   {
     id: 3,
-    title: "Bali",
-    desc: "Bali, Indonesia's most famous island, has taken its place as the 'last paradise' in mind. Providing 80% of its livelihood with tourism, Bali hosts thousands of tourists every year.",
-    image: "https://ak.picdn.net/shutterstock/videos/26368511/thumb/1.jpg",
+    title: "Konuralp Antik Kenti Tiyatrosu",
+    desc: "Antik Tiyatro, yöre halkı tarafından Konuralp Antik Tiyatrosu olarak da anılıyor ve Kırk Basamak olarak da isimlendiriliyor. Tarihi MÖ 3. yüzyıla kadar dayanmaktadır. Tiyatroya Roma döneminde de çeşitli eklemeler yapılarak son halini alması sağlanmıştır.",
+    image:
+      "https://blog.biletbayi.com/wp-content/uploads/2019/12/konuralp-antik-kenti-tiyatrosu-scaled.jpg",
   },
   {
     id: 4,
-    title: "Egypt",
-    desc: "Being one of the biggest countries of the Middle East, Egypt has been the transition point of many civilizations with its thousands of years of history. The pyramids and miracles that come to mind when talking about Egypt have been the subject of many films. It still remains a mystery.",
-    image:
-      "https://images.memphistours.com/large/34d5b5a3fbaa4b3b5d9487bf924b0145.jpg",
+    title: "Akçakoca Ceneviz Kalesi",
+    desc: "Sahil kıyısının güzelliği ile ortaya çıkan Ceneviz Kalesi, tarihi hikayesiyle de ön plana çıkıyor. Kalenin tarihi ise Haçlı Seferleri’ne dayanmakta. Denize sıfır bir noktada inşa edilen kale, denizden yüksek olması sayesinde denizden gelebilecek tehlikelerin engellenmesinde de önemli bir rol oynamıştır.",
+    image: "https://blog.biletbayi.com/wp-content/uploads/2017/08/dd.jpg",
   },
   {
     id: 5,
-    title: "Cappadocia",
-    desc: "Cappadocia… 'Kappa Tuchia', which means 'Land of Beautiful Horses' in the words of Persians. A location in Turkey and in the center of Anatolia's most popular and unique tourist centers of someone who Cappadocia, magnificent nature, valleys of unique beauty, fairy chimneys, rock-hewn settlements, millions every year with open-air museums and underground cities, local and hosts foreign tourists.",
-    image: "https://i.hurimg.com/i/hdn/75/0x0/5aa10544d3806c25541af273.jpg",
+    title: "Topuk Yaylası ve Göleti",
+    desc: "Topuk Yaylasında ormanın kokusu, ardından göletle buluşan sarıçam, köknar, kayın gürgen ağaçlarının görüntüsü ile birlikte farklı birçok kuş çeşidinden doğa konseri dinleyerek, patika yollarda bisiklet, gölet çevresinde çadır kampı, trekking, foto-safari vb. aktiviteler yapılabilmektedir.",
+    image:
+      "https://duzce.ktb.gov.tr/Resim/304745,topuk-yaylasi-gulcan-acar--6-kasim-201838jpg.png?0",
   },
   {
     id: 6,
-    title: "Paris",
-    desc: "Paris has been recognized as one of the most romantic cities in the world. Many famous buildings here have been added to the Unesco World Heritage List. It awaits you with its museums, fashion and historical buildings.",
-    image:
-      "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20180221130827/iStock-155381519.jpg",
+    title: "Hasanlar Baraj Gölü",
+    desc: "Göze sığmayan büyüklükte ve güzellikteki göl, her kıvrımından ve her yüksekliğinden tüm coşku ve güzelliğiyle pastoral lezzetler vererek insanı cezp ediyor. Göle paralel devam eden yol ara sıra göl kıyısına dek iniş müsaadesi verirken kıyıda piknik yapma şansı veriyor.",
+    image: "https://duzce.ktb.gov.tr/Resim/255949,hasanlar-baraj-golu.png?0",
   },
   {
     id: 7,
-    title: "Venice",
-    desc: "Venice, one of Italy's indispensable stops, is known as the 'City of Channels', 'City of Waters' or 'City of Masks' thanks to its world-famous masks. If you visit in February, you can catch the Venice Carnival, where everyone wears a mask and has fun.",
-    image:
-      "https://www.qantas.com/content/travelinsider/en/explore/europe/italy/venice/things-you-need-to-know-before-you-go-to-venice/_jcr_content/parsysTop/hero.img.full.medium.jpg/1535006246068.jpg",
+    title: "Aktaş Şelalesi",
+    desc: "Aktaş Şelalesi, İstanbul ve Ankara’nın sahille kesiştiği noktada bulunan Düzce’nin Akçakoca İlçesinin Aktaş köyü sınırlarındadır. Düzce'ye 55 km, Akçakoca İlçesine 11 km mesafede bulunan şelale, doğası ve çevresindeki zengin bitki örtüsü ile Akçakoca’nın görülmeye değer doğal güzelliklerindendir.",
+    image: "https://duzce.ktb.gov.tr/Resim/253491,aktas-selalesi.png?0",
   },
   {
     id: 8,
-    title: "India",
-    desc: "If you are not a vacationer but a traveler, we can say that India is the place for you. India, one of the most colorful places in the world, has a crazy variety. The Taj Mahal, the story of which you have heard more or less, is one of its famous buildings.",
-    image: "https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg",
+    title: "Dipsizgöl Göleti",
+    desc: "Düzce’nin Kaynaşlı ilçesi, Dipsizgöl köyünde bulunan Dipsizgöl Göleti piknik ve mesire alanı, il merkezine 10 km mesafededir. 9,13 ha orman içerisinde bulunan gölet, piknik, çadır kampı, trekking, bisiklet ve foto safari aktiviteleri için oldukça uygundur.",
+    image: "https://duzce.ktb.gov.tr/Resim/357427,camlipinar-goleti-2jpg.png?0",
   },
   {
     id: 9,
-    title: "Northern Lights",
-    desc: "Northern lights, the 'Aurora Borealis', named after the Dawn Goddess Aurora, are the natural glows that emerge in the sky with the interaction of the earth's magnetic field and charged particles from the Sun. This image, which makes most of us feel like in a fairy tale land, deserves to be visited at least once in a lifetime.",
-    image:
-      "https://images.unsplash.com/photo-1579033461380-adb47c3eb938?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bm9ydGhlcm4lMjBsaWdodHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    title: "Fakıllı Mağarası",
+    desc: "Doğal özellikler taşıyan mağaranın içinde çeşitli yönlere giden galeriler, sarkıt ve dikitler vardır. Özellikle beyaz oda olarak anılan bölgeler damlataş bakımından zengindir. Mağaraya yağışlı dönemlerde düden girişler ile önemli oranda su girişi vardır.",
+    image: "https://duzce.ktb.gov.tr/Resim/255874,fakilli-magarasi.png?0",
   },
   {
     id: 10,
-    title: "Fuji Mountain",
-    desc: "The symbol and highest mountain of Japan, Mount Fuji is considered sacred by the Japanese and is called Fuji-San. This mountain, which has an active startovolcano, is depicted in art and photography and is a natural wonder visited by athletes and tourists.",
+    title: "Sarıkaya Mağarası",
+    desc: "Toplam uzunluğu 717 m olan mağaranın ana galeri uzunluğu 510 m, genişliği 80 m, boyu 75 m, tavan yüksekliği 15-40 m’dir. Salonda iki gelişim dönemine ait fosil ve genç damlataş şekilleri bulunmaktadır.",
     image:
-      "https://d20aeo683mqd6t.cloudfront.net/articles/title_images/000/038/943/original/pixta_43064884_S.jpg?2019&d=750x400",
+      "https://duzce.ktb.gov.tr/Resim/284732,duzce-sarikaya-magarasi-gulcan-acar-5jpg.png?0",
   },
   {
     id: 11,
-    title: "Arashiyama Bamboo Grove",
-    desc: "Bamboo Forest, or Arashiyama Bamboo Grove or Sagano Bamboo Forest, is a natural forest of bamboo in Arashiyama, Kyoto, Japan. The forest consists mostly of Moso Bamboo (Phyllostachys edulis) and consists of several pathways for tourists and visitors. The Ministry of the Environment considers it a part of the soundscape of Japan.",
-    image: "https://wallpaperaccess.com/full/534182.jpg",
+    title: "Samandere Şelalesi Tabiat Anıtı",
+    desc: "Samandere Şelalesi, koruma altına alınmış doğal bir varlığımızdır. Zengin bitki örtüsünün su sesi ile bütünleştiği şelalede, mesire ve piknik alanları, doğa yürüyüş parkurları, kamp alanları, orman içi dinlenme yerleriyle muhteşem bir doğa güzelliğine sahiptir.",
+    image: "https://duzce.ktb.gov.tr/Resim/306641,3jpg.png?0",
   },
   {
     id: 12,
-    title: "Antelope Canyon",
-    desc: "Antelope Canyon is a slot canyon in the American Southwest, on Navajo land east of Page, Arizona. It includes two separate, scenic slot canyon sections, referred to as Upper Antelope Canyon (or The Crack), and Lower Antelope Canyon (or The Corkscrew).",
-    image:
-      "https://images.unsplash.com/photo-1444076784383-69ff7bae1b0a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxvd2VyJTIwYW50ZWxvcGUlMjBjYW55b258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    title: "Toptepe",
+    desc: "üzce Ovası’nın kuş bakışı izlendiği en güzel noktalardan biridir. Gözlem terasında Efteni Gölü’nün muhteşem manzarasını izleyebilir, kır gazinosunda yöresel yemeklerin tadına bakabilirsiniz. Toptepe, ilimizin zengin turizm potansiyellerine yakınlığı ile de dikkat çekmektedir.",
+    image: "https://duzce.ktb.gov.tr/Resim/256624,toptepe.png?0",
   },
 ];
