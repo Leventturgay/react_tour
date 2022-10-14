@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Leventturgay/react_tour/static/css/main.2647b80b.css",
+    "main.js": "/Leventturgay/react_tour/static/js/main.43632685.js",
+    "static/js/787.f0dc8cd5.chunk.js": "/Leventturgay/react_tour/static/js/787.f0dc8cd5.chunk.js",
+    "index.html": "/Leventturgay/react_tour/index.html",
+    "main.2647b80b.css.map": "/Leventturgay/react_tour/static/css/main.2647b80b.css.map",
+    "main.43632685.js.map": "/Leventturgay/react_tour/static/js/main.43632685.js.map",
+    "787.f0dc8cd5.chunk.js.map": "/Leventturgay/react_tour/static/js/787.f0dc8cd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2647b80b.css",
+    "static/js/main.43632685.js"
+  ]
+}
